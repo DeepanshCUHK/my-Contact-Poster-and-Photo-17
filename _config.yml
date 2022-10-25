@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Customize the Dynamic Island and iPhone Notch with 1))+ curated designs.
+app_description                           : Customize the Dynamic Island and iPhone Notch with 100+ curated designs.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -25,7 +25,7 @@ your_link                                 :
 your_city                                 :
 email_address                             : hi@dynamicnotch.com
 facebook_username                         :                                           
-instagram_username                        : dynamicnotch.notch
+instagram_username                        : dynamic.notch
 twitter_username                          :
 github_username                           :
 youtube_username                          :
@@ -35,30 +35,30 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Customize iPhone
+    description                           : Customize the Dynamic Island and old iPhone notch.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Lots of Designs
+    description                           : Choose from 100+ curated notch designs.
+    fontawesome_icon_name                 : star
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Beautiful Wallpapers
+    description                           : Choose from curated wallpapers or import your own wallpapers.
     fontawesome_icon_name                 : sync
 
   - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+    description                           : Choose different designs and resize your image.
     fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
+  - title                                 : Export Wallpaper
+    description                           : Download your "Dynamic Notch" wallpaper in high quality.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
+  - title                                 : All iPhone Models are supported
+    description                           : Ranging from the first iPhone X with a notch to the latest iPhone 14 Pro with the new dynamic island.
+    fontawesome_icon_name                 : info-circle
+    
   - title                                 : Social Links
     description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : link
@@ -131,7 +131,7 @@ exclude:
 
 collections:
   pages:
-    output: true
+    output: false
     permalink: /:path/
 
 # Markdown rendering
