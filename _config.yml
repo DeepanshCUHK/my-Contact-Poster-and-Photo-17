@@ -58,14 +58,6 @@ features                                  :
   - title                                 : All iPhone Models are supported
     description                           : Ranging from the first iPhone X with a notch to the latest iPhone 14 Pro with the new dynamic island.
     fontawesome_icon_name                 : info-circle
-    
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
@@ -131,7 +123,7 @@ exclude:
 
 collections:
   pages:
-    output: false
+    output: true
     permalink: /:path/
 
 # Markdown rendering
