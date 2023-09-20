@@ -9,15 +9,15 @@ include_in_header: true
 <br>
 
 ### `Latest`
-# **Version 1.8**
-This is the first update to our app. 
+# **Version 1.1**
+This is the second update to our app. 
 
 #### What's New
 - Bug Fixes.
 - [Changes to Privacy Policy](/privacypolicy)
 
 #### Bug Fixes
-- Compatible with iPhone 14 models and iOS 16.
+- Compatible with iOS 17.
 - Enhance UI.
 - [Changes to Privacy Policy](/privacypolicy)
 
