@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Customize the Dynamic Island and iPhone Notch with 100+ curated designs.
+app_description                           : Customize the Contact Poster and Photo for iOS 17 with 50+ curated designs.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,28 +35,28 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Customize iPhone
-    description                           : Customize the Dynamic Island and old iPhone notch.
+  - title                                 : Customize Contact Posters
+    description                           : Customize the Contact Poster and Photo for iOS 17.
     fontawesome_icon_name                 : mobile
 
   - title                                 : Lots of Designs
-    description                           : Choose from 100+ curated notch designs.
+    description                           : Choose from 50+ curated designs.
     fontawesome_icon_name                 : star
 
-  - title                                 : Beautiful Wallpapers
-    description                           : Choose from curated wallpapers or import your own wallpapers.
+  - title                                 : Beautifully Crafted
+    description                           : Choose from creative backdrops, effects, and filter and even set your own colors.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
+  - title                                 : Stunning Designs
     description                           : Choose different designs and resize your image.
     fontawesome_icon_name                 : adjust
 
-  - title                                 : Export Wallpaper
-    description                           : Download your "Dynamic Notch" wallpaper in high quality.
+  - title                                 : Export Contact Poster
+    description                           : Download your "Contact Poster" in high quality.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
   - title                                 : All iPhone Models are supported
-    description                           : Ranging from the first iPhone X with a notch to the latest iPhone 14 Pro with the new dynamic island.
+    description                           : But its best to try it on the latest iPhone 15 Pro with iOS 17.
     fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
